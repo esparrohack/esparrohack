@@ -4,7 +4,7 @@
 
 **Architect. JS Specialist. Writer With a Capital Dubble-U**
 
-*Building large-scale, data-intensive web apps && yelling at the Cloud since JavaScript equaled-equaled Flash*
+Building large-scale, data-intensive. buzzword-laden web apps && yelling at the Cloud since JavaScript equaled-equaled Flash
 
 * 400 years of software development experience
 * Best writer in the world
