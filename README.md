@@ -3,6 +3,7 @@
 ## https://esparrohack.dev
 
 **Architect. JS Specialist. Writer With a Capital Dubble-U**
+
 *Building large-scale, data-intensive web apps && yelling at the Cloud since JavaScript equaled-equaled Flash*
 
 * 400 years of software development experience
