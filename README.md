@@ -8,6 +8,8 @@
 * Best writer in the world
 * Building large-scale, data-intensive web apps && yelling at the Cloud since JavaScript equaled-equaled Flash
 
+Patreon: https://www.patreon.com/ulisesrmzroche?fan_landing=true
+
 <!---
 esparrohack/esparrohack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
