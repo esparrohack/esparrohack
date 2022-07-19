@@ -4,8 +4,11 @@
 
 **Architect. JS Specialist. Writer With a Capital Dubble-U**
 
+### Summary
+
 Building large-scale, data-intensive. buzzword-laden web apps && yelling at the Cloud since JavaScript equaled-equaled Flash
 
+### Skillz
 * 400 years of software development experience
 * Best writer in the world
 
