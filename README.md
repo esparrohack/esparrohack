@@ -8,7 +8,7 @@ Building large-scale, data-intensive. buzzword-laden web apps && yelling at the 
 
 ## Skillz
 
-* 400 years of software development experience
+* 65m years of software development experience
 * JS Space Wizard
 * Best writer in the world
 
