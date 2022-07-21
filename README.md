@@ -10,7 +10,6 @@ Building large-scale, data-intensive. buzzword-laden web apps && yelling at the 
 
 * 13.77b years of software development experience
 * JS Space Wizard
-* Best writer in the world
 
 <!---
 esparrohack/esparrohack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
